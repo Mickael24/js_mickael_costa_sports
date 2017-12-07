@@ -1,7 +1,7 @@
 import { combineReducers } from "redux";
 
-import seasson from './seasson';
+import seasons from './seasons';
 
 export default combineReducers({
-  seasson
+  seasons
 });
